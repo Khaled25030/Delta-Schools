@@ -1,0 +1,17 @@
+{
+  "name": "Delta Schools — مدارس دلتا",
+  "short_name": "Delta Schools",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#091B3E",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

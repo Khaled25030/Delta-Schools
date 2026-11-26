@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://delta.edu.sa/sitemap.xml
